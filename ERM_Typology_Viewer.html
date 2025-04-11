@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sample Risk Network</title>
+  <script src="https://unpkg.com/vis-network@9.1.2/dist/vis-network.min.js"></script>
+  <link href="https://unpkg.com/vis-network@9.1.2/styles/vis-network.min.css" rel="stylesheet" />
+  <style>
+    #network {
+      width: 100%;
+      height: 800px;
+      border: 1px solid lightgray;
+    }
+    #loading {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      padding: 10px 20px;
+      background-color: white;
+      border: 1px solid #999;
+      box-shadow: 0 0 5px rgba(0,0,0,0.3);
+      z-index: 10;
+      font-weight: bold;
+    }
+    .dot {
+      animation: blink 1.5s infinite;
+      font-weight: bold;
+    }
+    .dot:nth-child(2) {
+      animation-delay: 0.2s;
+    }
+    .dot:nth-child(3) {
+      animation-delay: 0.4s;
+    }
+    @keyframes blink {
+      0%, 80%, 100% { opacity: 0; }
+      40% { opacity: 1; }
+    }
+  </style>
+</head>
+<body>
+
+<h2>Risk Network (Progressive View)</h2>
+<div id="loading">Loading network<span class="dot">.</span><span class="dot">.</span><span class="dot">.</span></div>
+<div id="network"></div>
+
+<script>
+  fetch('Risk_Typology_Graph.json')
+    .then(response => response.json())
+    .then(data => {
+      const childMap = {};
+      data.edges.forEach(edge => {
+        if (!childMap[edge.from]) childMap[edge.from] = [];
+        childMap[edge.from].push(edge.to);
+      });
+
+      const levelMap = {};
+      const root = data.nodes.find(n => n.label && n.label.trim().toLowerCase() === 'organisation value');
+      console.log('Resolved root node:', root);
+      if (!root) throw new Error('Root node not found');
+
+      const queue = [{ id: root.id, level: 0 }];
+      levelMap[root.id] = 0;
+
+      while (queue.length > 0) {
+        const { id, level } = queue.shift();
+        const children = childMap[id] || [];
+        children.forEach(childId => {
+          if (!(childId in levelMap)) {
+            levelMap[childId] = level + 1;
+            queue.push({ id: childId, level: level + 1 });
+          }
+        });
+      }
+
+      const levelColors = ['#ff0000','#ff0000','#ffa500','#008000','#0000ff','#ffd700'];
+      const allNodes = new vis.DataSet();
+      const allEdges = new vis.DataSet();
+      const visibleNodes = new vis.DataSet();
+      const visibleEdges = new vis.DataSet();
+
+      data.nodes.forEach(n => {
+        allNodes.add({ id: n.id, label: n.label, shape: 'elipse', color: levelColors[levelMap[n.id] % levelColors.length] });
+      });
+      data.edges.forEach(e => allEdges.add(e));
+
+      function addNodeWithAncestors(nodeId) {
+        visibleNodes.add(allNodes.get(nodeId));
+        const incoming = data.edges.find(e => e.to === nodeId);
+        if (incoming && !visibleNodes.get(incoming.from)) {
+          visibleEdges.add(incoming);
+          addNodeWithAncestors(incoming.from);
+        } else if (incoming) {
+          visibleEdges.add(incoming);
+        }
+      }
+
+      Object.keys(levelMap).forEach(id => {
+        if (levelMap[id] <= 3) addNodeWithAncestors(id);
+      });
+
+      const container = document.getElementById('network');
+      const networkData = { nodes: visibleNodes, edges: visibleEdges };
+      const options = {
+        layout: {},
+        interaction: { hover: true, navigationButtons: true, tooltipDelay: 100 },
+        nodes: { font: { size: 14, color: "#000" } }
+      };
+
+      const network = new vis.Network(container, networkData, options);
+
+      network.once('stabilizationIterationsDone', function () {
+        document.getElementById('loading').style.display = 'none';
+      });
+
+      network.on('click', function (params) {
+        if (params.nodes.length === 1) {
+          const selectedId = params.nodes[0];
+          const childIds = childMap[selectedId] || [];
+
+          const isExpanded = childIds.every(id => visibleNodes.get(id));
+
+          if (isExpanded) {
+            function recursivelyRemoveChildren(parentId) {
+              const children = childMap[parentId] || [];
+              children.forEach(childId => {
+                recursivelyRemoveChildren(childId);
+                visibleNodes.remove(childId);
+                visibleEdges.remove(`${parentId}-${childId}`);
+              });
+            }
+            recursivelyRemoveChildren(selectedId);
+          } else {
+            childIds.forEach(id => {
+              if (!visibleNodes.get(id)) visibleNodes.add(allNodes.get(id));
+              if (!visibleEdges.get(`${selectedId}-${id}`)) {
+                visibleEdges.add({ id: `${selectedId}-${id}`, from: selectedId, to: id });
+              }
+            });
+          }
+        }
+      });
+    })
+    .catch(error => console.error('Error loading JSON:', error));
+</script>
+
+</body>
+</html>

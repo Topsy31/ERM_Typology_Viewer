@@ -1,0 +1,9152 @@
+{
+  "nodes": [
+    {
+      "id": "L0_0",
+      "label": "Organisation Value",
+      "level": 0,
+      "group": "Level 0"
+    },
+    {
+      "id": "L1_1",
+      "label": "Capture Value",
+      "level": 1,
+      "group": "Level 1"
+    },
+    {
+      "id": "L2_2",
+      "label": "Financial performance and viability",
+      "level": 2,
+      "group": "Level 2"
+    },
+    {
+      "id": "L3_3",
+      "label": "Balance sheet risk",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_4",
+      "label": "Leverage risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_5",
+      "label": "Highly Leveraged Balance Sheet",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_6",
+      "label": "Profitability risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_7",
+      "label": "Capacity Management Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_8",
+      "label": "Flat / Reducing Revenues",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_9",
+      "label": "Increasing Operating Expenses / COGS",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_10",
+      "label": "Undisciplined / Overspending",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_11",
+      "label": "Unrecovered cash burn",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_12",
+      "label": "Unsustainable Margin Expansion Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_13",
+      "label": "Credit",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_14",
+      "label": "Concessions risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_15",
+      "label": "Concessions risk (L5)",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_16",
+      "label": "Country risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_17",
+      "label": "Advertising Intensity Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_18",
+      "label": "After-Sales Service Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_19",
+      "label": "Cash Flow Valuation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_20",
+      "label": "Colonial Ties Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_21",
+      "label": "Contagion Effects Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_22",
+      "label": "Corruption Perception Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_23",
+      "label": "Country Beta Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_24",
+      "label": "Country Equity Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_25",
+      "label": "Country Exit Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_26",
+      "label": "Country Risk Appraisal",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_27",
+      "label": "Country Selection Strategies Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_28",
+      "label": "Credit Conversion Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_29",
+      "label": "Credit Transfer Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_30",
+      "label": "Cultural Distance Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_31",
+      "label": "Developing Economy Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_32",
+      "label": "Digital Divide Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_33",
+      "label": "Exit Costs Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_34",
+      "label": "Expatriates Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_35",
+      "label": "Fiscal Deficit Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_36",
+      "label": "Foreign Acquisitions Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_37",
+      "label": "Foreign Bonds Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_38",
+      "label": "Foreign IPOs Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_39",
+      "label": "Franchising Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_40",
+      "label": "Geographic Diversification Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_41",
+      "label": "Geographic Situation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_42",
+      "label": "Glass Ceiling Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_43",
+      "label": "Global Value Chains Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_44",
+      "label": "Inflation Rates Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_45",
+      "label": "International Asset Pricing Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_46",
+      "label": "International Entry Mode Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_47",
+      "label": "International Financial Markets Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_48",
+      "label": "International Methods of Payment Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_49",
+      "label": "International Monetary Fund Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_50",
+      "label": "International Reserves Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_51",
+      "label": "Investment Inflows Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_52",
+      "label": "Judicial System Efficiency Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_53",
+      "label": "Macroeconomic Variables Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_54",
+      "label": "Non-Financial Indicators of Trade Credit Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_55",
+      "label": "Reduced Government Grant",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_56",
+      "label": "Regulatory Quality Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_57",
+      "label": "Sanctions Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_58",
+      "label": "Societal-Level Index Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_59",
+      "label": "Sovereign Debt Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_60",
+      "label": "Sovereign Rating Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_61",
+      "label": "Sovereign Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_62",
+      "label": "Tax Credit Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_63",
+      "label": "Transaction Costs Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_64",
+      "label": "World Bank Funding Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_65",
+      "label": "Default risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_66",
+      "label": "Bankruptcy Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_67",
+      "label": "Capital Forbearance Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_68",
+      "label": "Clearing Houses Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_69",
+      "label": "Collateralized Mortgage Obligation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_70",
+      "label": "Collateralized Debt Obligation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_71",
+      "label": "Collective Action Clauses Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_72",
+      "label": "Credit Crisis Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_73",
+      "label": "Credit Default Swap Spreads Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_74",
+      "label": "Credit Dependent Demand Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_75",
+      "label": "Credit Rating Agency Monitoring Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_76",
+      "label": "Credit Scoring Models Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_77",
+      "label": "Customer-Base Concentration Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_78",
+      "label": "Default Distribution Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_79",
+      "label": "Default Risk Channels",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_80",
+      "label": "Default-Risk Models Accuracy Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_81",
+      "label": "Delay-in-Payment Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_82",
+      "label": "Floating-Rate Cash Flows Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_83",
+      "label": "Government Debt Markets Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_84",
+      "label": "Guarantee Scheme Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_85",
+      "label": "Increased Cost of Debt",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_86",
+      "label": "Loan Officer Judgments Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_87",
+      "label": "Market Reaction Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_88",
+      "label": "Microcredit Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_89",
+      "label": "Momentum Effect Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_90",
+      "label": "Mortgage Prepayment Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_91",
+      "label": "Mortgage-Backed Securities Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_92",
+      "label": "Paper-Bill Spread Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_93",
+      "label": "Pitching Template",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_94",
+      "label": "Sequential Investment Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_95",
+      "label": "Supply Chain Coordination Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_96",
+      "label": "Top-Down Credit Risk Models Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_97",
+      "label": "Over-indebtness",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_98",
+      "label": "Over-indebtness (L5)",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_99",
+      "label": "Restrictive debt covenants",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_100",
+      "label": "Restrictive debt covenants (L5)",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_101",
+      "label": "Liquidity risk",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_102",
+      "label": "Funding liquidity risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_103",
+      "label": "Bank Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_104",
+      "label": "Deposit Decay Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_105",
+      "label": "Foreign Exchange Swaps Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_106",
+      "label": "Funding Lockup Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_107",
+      "label": "Leverage Constraints Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_108",
+      "label": "Low Cash Holdings",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_109",
+      "label": "Non-maturing Deposits Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_110",
+      "label": "Refinancing Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_111",
+      "label": "Risk to Bond Yields",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_112",
+      "label": "Slower / Impaired Collections on Accounts Receivable Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_113",
+      "label": "Systematic Liquidity Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_114",
+      "label": "Market liquidity risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_115",
+      "label": "Loan Loss Provisions Inadequacy",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_116",
+      "label": "Reputation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_117",
+      "label": "Systematic Liquidity Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_118",
+      "label": "Transparency Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_119",
+      "label": "Refinancing risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_120",
+      "label": "Cash Trapped Overseas",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_121",
+      "label": "Inadequate Working Capital Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_122",
+      "label": "Islamic Finance Related Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_123",
+      "label": "Low Recovery Probabilities Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_124",
+      "label": "Poor Liquidity Management",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_125",
+      "label": "Reduced Leverage",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_126",
+      "label": "Risk to Bond Yields",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_127",
+      "label": "Market risk",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_128",
+      "label": "Commodity risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_129",
+      "label": "Capacity Management Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_130",
+      "label": "Commodity Futures Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_131",
+      "label": "Commodity Hedging Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_132",
+      "label": "Commodity Markets Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_133",
+      "label": "Consignment Stock Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_134",
+      "label": "Cost Risk / Input Price Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_135",
+      "label": "Credit Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_136",
+      "label": "Environmental Impact of Sourcing Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_137",
+      "label": "Foreign Exchange Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_138",
+      "label": "Long-Only Commodity Portfolio Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_139",
+      "label": "Loss Of Mutuality Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_140",
+      "label": "Multiproduct Firm Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_141",
+      "label": "Political Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_142",
+      "label": "Position Limits Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_143",
+      "label": "Price Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_144",
+      "label": "Quantity / Volume Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_145",
+      "label": "Shortfall Minimization Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_146",
+      "label": "Social Impact of Sourcing Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_147",
+      "label": "Sourcing Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_148",
+      "label": "Spot Market Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_149",
+      "label": "Storable Commodity Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_150",
+      "label": "Window Contracts Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_151",
+      "label": "Counterparty risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_152",
+      "label": "Absolute Priority Rule Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_153",
+      "label": "Arbitrage-Free Valuation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_154",
+      "label": "B2B margin pressure",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_155",
+      "label": "Central Counterparty Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_156",
+      "label": "Counterparty Defaults on Contractual Obligations",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_157",
+      "label": "Credit Crisis",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_158",
+      "label": "Credit-Linked Notes Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_159",
+      "label": "Gross Settlement Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_160",
+      "label": "Haircuts Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_161",
+      "label": "High Counterparty Exposure",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_162",
+      "label": "Incomplete Information Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_163",
+      "label": "Joint Defaults Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_164",
+      "label": "Low Margin Requirement",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_165",
+      "label": "Mark-to-Market Accounting Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_166",
+      "label": "Multi-Asset Valuation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_167",
+      "label": "Ownership Structure Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_168",
+      "label": "Reciprocal Ownership Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_169",
+      "label": "Repurchase Agreements Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_170",
+      "label": "Risk of Cross-holdings",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_171",
+      "label": "Structured Notes Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_172",
+      "label": "Supply Chain Disruption Propagation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_173",
+      "label": "Wrong Way Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_174",
+      "label": "Global Capacity risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_175",
+      "label": "Overcapacity and Oversupply",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_176",
+      "label": "Interest rate risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_177",
+      "label": "Adjustment Term Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_178",
+      "label": "Annuity Pricing Changes",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_179",
+      "label": "Balance Sheet Management Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_180",
+      "label": "Bank Valuation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_181",
+      "label": "Banking Supervision Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_182",
+      "label": "Business Cycle Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_183",
+      "label": "Capital Budgeting Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_184",
+      "label": "Commercial Papers Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_185",
+      "label": "Construction Business Cycle Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_186",
+      "label": "Corporate Bonds Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_187",
+      "label": "Corporate Debt Increase",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_188",
+      "label": "Crossover Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_189",
+      "label": "Currency Exposure Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_190",
+      "label": "Debt Valuation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_191",
+      "label": "Default Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_192",
+      "label": "Excess Reserves Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_193",
+      "label": "Fixed-Income Strategies Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_194",
+      "label": "Foreign Exchange Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_195",
+      "label": "Forward Rates Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_196",
+      "label": "Increased Cost of Equity Capital",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_197",
+      "label": "Increased Investment Horizon Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_198",
+      "label": "Individual Pension Schemes",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_199",
+      "label": "Inflation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_200",
+      "label": "Interest Rate Risk Hedging",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_201",
+      "label": "Liability Management Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_202",
+      "label": "Liability Valuation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_203",
+      "label": "Life Insurance Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_204",
+      "label": "Liquidity Trap Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_205",
+      "label": "Monetary Policy Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_206",
+      "label": "Mortgage Price Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_207",
+      "label": "Non-Bank Financial Intermediaries Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_208",
+      "label": "Non-maturity Deposits Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_209",
+      "label": "Optimal Debt Ratio Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_210",
+      "label": "Probability Distortion",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_211",
+      "label": "Reduced Growth Opportunities Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_212",
+      "label": "Reduced Operating Leverage Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_213",
+      "label": "Regulatory Capital Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_214",
+      "label": "Residual Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_215",
+      "label": "Retirement Income Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_216",
+      "label": "Reverse Mortgage",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_217",
+      "label": "Shadow Prices Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_218",
+      "label": "Short-Term Interest Rates Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_219",
+      "label": "Strategic Asset Allocation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_220",
+      "label": "Variable Rates of Return Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_221",
+      "label": "Operating expenses",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_222",
+      "label": "Compliance cost risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_223",
+      "label": "Asymmetric Information Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_224",
+      "label": "Control Monitoring Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_225",
+      "label": "Financial Reporting Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_226",
+      "label": "Regulatory Arbitrage Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_227",
+      "label": "Risks of Near Real-Time Regulatory Reporting",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_228",
+      "label": "Self-Regulation Risk (annual stress tests)",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_229",
+      "label": "Signaling Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_230",
+      "label": "Expense Forecasting Risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_231",
+      "label": "Inability to Forecast Long-Term Expenses",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_232",
+      "label": "Inaccurate Expense Forecasts",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_233",
+      "label": "Non-modeled Expenses",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_234",
+      "label": "Reduced Cash Flow",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_235",
+      "label": "Litigation cost risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_236",
+      "label": "Attributional Statements Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_237",
+      "label": "Audit Fees Conflict of Interest",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_238",
+      "label": "Directors' And Officers' Liability Insurance Cost",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_239",
+      "label": "Financial Reporting Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_240",
+      "label": "Indemnification Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_241",
+      "label": "International Litigation Costs",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_242",
+      "label": "IPO Overprice Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_243",
+      "label": "IPO Underprice Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_244",
+      "label": "Legal Settlement Costs",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_245",
+      "label": "Long Term Litigation Costs",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_246",
+      "label": "Tort Liability Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_247",
+      "label": "Underwriter Quality Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_248",
+      "label": "Unexpected Litigation Costs",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_249",
+      "label": "Voluntary Disclosure Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_250",
+      "label": "Pension and Post-retirement benefits risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_251",
+      "label": "Underfunded Obligations / Low Contributions",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_252",
+      "label": "Taxation risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_253",
+      "label": "Capital Structure Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_254",
+      "label": "Discounted Cash Flow Methods Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_255",
+      "label": "Dividend Payout Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_256",
+      "label": "Firm Valuation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_257",
+      "label": "Increased Required Returns",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_258",
+      "label": "Leverage Reduction",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_259",
+      "label": "Liquidity Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_260",
+      "label": "Profitability Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_261",
+      "label": "Reduced Growth Opportunities",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_262",
+      "label": "Tax Implications on Share repurchases",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_263",
+      "label": "Tax Shield Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_264",
+      "label": "Operational risk",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_265",
+      "label": "Fraud risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_266",
+      "label": "Audit Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_267",
+      "label": "Collaborative Fraud Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_268",
+      "label": "Compliance Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_269",
+      "label": "Concentrated Ownership Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_270",
+      "label": "Corporate Executive Fraud",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_271",
+      "label": "Corruption and Bribery",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_272",
+      "label": "Crime Triangle Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_273",
+      "label": "Cyber-Banking Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_274",
+      "label": "Data Mining Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_275",
+      "label": "Deadline Pressure Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_276",
+      "label": "Defalcation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_277",
+      "label": "Disgruntled Employee Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_278",
+      "label": "Equity Incentives Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_279",
+      "label": "Error Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_280",
+      "label": "Group Affiliation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_281",
+      "label": "Identity Theft Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_282",
+      "label": "Inefficient Information Grouping and Proximity Compatibility Principle Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_283",
+      "label": "Internal Control Weaknesses",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_284",
+      "label": "International Auditing Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_285",
+      "label": "Irregularity Detection Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_286",
+      "label": "Lack Of Ethics",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_287",
+      "label": "Lack Of Expertise",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_288",
+      "label": "Negligence Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_289",
+      "label": "Non-GAAP Earnings",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_290",
+      "label": "Priming Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_291",
+      "label": "Red Flag Checklists Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_292",
+      "label": "Risks Related to Forensic Accountant Mindset",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_293",
+      "label": "Social Ties Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_294",
+      "label": "Third Party Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_295",
+      "label": "Truth-Bias Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_296",
+      "label": "Veracity Effect Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_297",
+      "label": "Web Crawling Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_298",
+      "label": "Reputation risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_299",
+      "label": "Corporate Misconduct Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_300",
+      "label": "Customer Perception",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_301",
+      "label": "Earnings Persistence Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_302",
+      "label": "Insider Trading Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_303",
+      "label": "Litigation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_304",
+      "label": "Loss of Trust Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_305",
+      "label": "Media Coverage Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_306",
+      "label": "Spillover Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_307",
+      "label": "Sponsorships Loss",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_308",
+      "label": "Valuation risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_309",
+      "label": "Consumer Valuation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_310",
+      "label": "Correlation Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_311",
+      "label": "Erroneous Calculation of A Benchmark Price",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_312",
+      "label": "Funding Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_313",
+      "label": "Illiquidity Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_314",
+      "label": "Litigation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_315",
+      "label": "Longevity Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_316",
+      "label": "Misleading Reporting Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_317",
+      "label": "Mispricing Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_318",
+      "label": "Reputation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_319",
+      "label": "Stranded Assets Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_320",
+      "label": "Value-to-Price Risk / Price Erosion Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L1_321",
+      "label": "Convey Value",
+      "level": 1,
+      "group": "Level 1"
+    },
+    {
+      "id": "L2_322",
+      "label": "Communication Capability",
+      "level": 2,
+      "group": "Level 2"
+    },
+    {
+      "id": "L3_323",
+      "label": "Recognition",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_324",
+      "label": "Reputational and brand equity loss risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_325",
+      "label": "Customer Support",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_326",
+      "label": "Negative Publicity",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_327",
+      "label": "Reduced Visibility",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_328",
+      "label": "Social Media Exposure",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L1_329",
+      "label": "Create Value",
+      "level": 1,
+      "group": "Level 1"
+    },
+    {
+      "id": "L2_330",
+      "label": "Operational Capability",
+      "level": 2,
+      "group": "Level 2"
+    },
+    {
+      "id": "L3_331",
+      "label": "Consolidated Operations",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_332",
+      "label": "Efficiency and productivity",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_333",
+      "label": "Relative Efficiency Gap",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_334",
+      "label": "Relative Productivity Gap",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_335",
+      "label": "Facilities and processes",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_336",
+      "label": "Business interruption risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_337",
+      "label": "Backups Usage Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_338",
+      "label": "Business Continuity Management",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_339",
+      "label": "Business Interruption Insurance Premia Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_340",
+      "label": "Catastrophe Interruption",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_341",
+      "label": "Claims Costs Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_342",
+      "label": "Communications Interruption",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_343",
+      "label": "Concession Interruption",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_344",
+      "label": "Criminal and Civil Disturbances Interruption",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_345",
+      "label": "Emergency Supply",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_346",
+      "label": "Health and Safety Interruption",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_347",
+      "label": "Health Crises Interruption",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_348",
+      "label": "Information Technology Interruption",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_349",
+      "label": "Manufacturing Line Interruption",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_350",
+      "label": "Property Loss",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_351",
+      "label": "Reduced Response Time Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_352",
+      "label": "Regulatory Interruption",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_353",
+      "label": "Rerouting Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_354",
+      "label": "Business process implementation risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_355",
+      "label": "Manufacturing Process Protocols",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_356",
+      "label": "Supply Chain Consolidation Execution Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_357",
+      "label": "Capacity risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_358",
+      "label": "Capacity constraints",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_359",
+      "label": "Unusable Capacity",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_360",
+      "label": "Manufacturing competence risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_361",
+      "label": "Inability to Manufacture at Scale",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_362",
+      "label": "Inability to Manufacturing Low-Cost",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_363",
+      "label": "Internal Control",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_364",
+      "label": "Manufacturing Process Efficiencies",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_365",
+      "label": "New Working Environments",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_366",
+      "label": "Specialty Manufacturing (Biologics, Pharma, High-Tech, Mining)",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_367",
+      "label": "Upskilling and E-Learning",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_368",
+      "label": "Sourcing",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_369",
+      "label": "Sourcing",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_370",
+      "label": "Concessions Unavailability",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_371",
+      "label": "Foreign Invested Small Companies",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_372",
+      "label": "In-Sourcing Inability",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_373",
+      "label": "Input Competition",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_374",
+      "label": "Input Concentration",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_375",
+      "label": "Input Dependence on Reserves and Discovery",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_376",
+      "label": "Input Price Volatility",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_377",
+      "label": "Input Quality Variability",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_378",
+      "label": "Input Scarcity / Unavailability",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_379",
+      "label": "Material Shortage Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_380",
+      "label": "Migrant Labor Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_381",
+      "label": "Offshore Outsourcing Political Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_382",
+      "label": "Offshore Outsourcing Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_383",
+      "label": "Rural Outsourcing Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_384",
+      "label": "Sourcing Sustainability Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_385",
+      "label": "Strategic Supplier Selection Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_386",
+      "label": "Vulnerable Workers Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_387",
+      "label": "Supplier risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_388",
+      "label": "Contract Manufacturing Failure",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_389",
+      "label": "Delivery Uncertainty",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_390",
+      "label": "Lead Time Uncertainty",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_391",
+      "label": "Product Quality Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_392",
+      "label": "Product Recall Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_393",
+      "label": "Service Satisfaction Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_394",
+      "label": "Supplier Bankruptcy Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_395",
+      "label": "Supplier Bargaining Power and Price",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_396",
+      "label": "Supplier Capacity Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_397",
+      "label": "Supplier Commodity Price Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_398",
+      "label": "Supplier Concentration",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_399",
+      "label": "Supplier Country Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_400",
+      "label": "Supplier Disruption",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_401",
+      "label": "Supplier Exchange Rate Uncertainty",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_402",
+      "label": "Supplier Financial Default Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_403",
+      "label": "Supplier Financial Disclosure Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_404",
+      "label": "Supplier Financial Insolvency Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_405",
+      "label": "Supplier Financial Litigation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_406",
+      "label": "Supplier Financial Opportunism Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_407",
+      "label": "Supplier Financial Payment Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_408",
+      "label": "Supplier Information Loss Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_409",
+      "label": "Supplier Innovation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_410",
+      "label": "Supplier Labor-Relations Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_411",
+      "label": "Supplier Logistics Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_412",
+      "label": "Supplier Offshoring Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_413",
+      "label": "Supplier Political Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_414",
+      "label": "Supplier Production Efficiency Uncertainty",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_415",
+      "label": "Supplier Safety Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_416",
+      "label": "Supplier Scarcity",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_417",
+      "label": "Supplier Technological Uncertainty",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_418",
+      "label": "Supplier Wholesale Price Uncertainty",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_419",
+      "label": "Third Party Technology Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_420",
+      "label": "Weather Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_421",
+      "label": "Storage",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_422",
+      "label": "Inventory risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_423",
+      "label": "Accident / Disaster Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_424",
+      "label": "Back-Order Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_425",
+      "label": "Bankruptcy Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_426",
+      "label": "Delivery Uncertainty",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_427",
+      "label": "Double Booking Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_428",
+      "label": "Forecasting Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_429",
+      "label": "Inventory Loss",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_430",
+      "label": "Leadtime Uncertainty",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_431",
+      "label": "Obsolescence Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_432",
+      "label": "Over-Stocking",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_433",
+      "label": "Price Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_434",
+      "label": "Quality Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_435",
+      "label": "Reputational Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_436",
+      "label": "Stochastic Inventory Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_437",
+      "label": "Stockout Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_438",
+      "label": "Storable Commodity Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_439",
+      "label": "Transportation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_440",
+      "label": "Under-Stocking",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_441",
+      "label": "Unhedgeable Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_442",
+      "label": "Value Loss",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L2_443",
+      "label": "Strategic Management",
+      "level": 2,
+      "group": "Level 2"
+    },
+    {
+      "id": "L3_444",
+      "label": "Permissions",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_445",
+      "label": "Country risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_446",
+      "label": "Activity Rights / Licenses",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_447",
+      "label": "Low Production Quotas",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L1_448",
+      "label": "Deliver Value",
+      "level": 1,
+      "group": "Level 1"
+    },
+    {
+      "id": "L2_449",
+      "label": "Operational Capability",
+      "level": 2,
+      "group": "Level 2"
+    },
+    {
+      "id": "L3_450",
+      "label": "Distribution",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_451",
+      "label": "Distribution channel risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_452",
+      "label": "Distribution Channel Access",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_453",
+      "label": "Distribution Channel Impairment",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_454",
+      "label": "Distribution Channel Rigidity",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_455",
+      "label": "Distribution risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_456",
+      "label": "Alliance Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_457",
+      "label": "Carcinogenic Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_458",
+      "label": "Contamination Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_459",
+      "label": "Country Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_460",
+      "label": "Crash Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_461",
+      "label": "Delay Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_462",
+      "label": "Delay Risk Assessment Quality",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_463",
+      "label": "Distributor Bargaining Power",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_464",
+      "label": "Distributor Concentration",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_465",
+      "label": "Fatality Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_466",
+      "label": "Fire Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_467",
+      "label": "Idiosyncratic Uncertainty",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_468",
+      "label": "Increased Physical Workload Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_469",
+      "label": "Interval Uncertainty",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_470",
+      "label": "Landslide Hazard Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_471",
+      "label": "Leakage Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_472",
+      "label": "Natural Gas and Transportation Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_473",
+      "label": "Network Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_474",
+      "label": "Production Uncertainty",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_475",
+      "label": "Rental Price Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_476",
+      "label": "Risk on Spares",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_477",
+      "label": "Schedule Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_478",
+      "label": "Shortfall Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_479",
+      "label": "Vessel Collision Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_480",
+      "label": "Weather Risk Management",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_481",
+      "label": "Wildfire Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_482",
+      "label": "Wrong-Way Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_483",
+      "label": "Scalability",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_484",
+      "label": "Disproportionate Scaling by Demand",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_485",
+      "label": "Non-Competitive Time to Scale by Demand",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L1_486",
+      "label": "Identify Value",
+      "level": 1,
+      "group": "Level 1"
+    },
+    {
+      "id": "L2_487",
+      "label": "Strategic Management",
+      "level": 2,
+      "group": "Level 2"
+    },
+    {
+      "id": "L3_488",
+      "label": "Marketing",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_489",
+      "label": "Sales execution risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_490",
+      "label": "Extended Sales Cycle",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_491",
+      "label": "Sales Force Inexperience",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_492",
+      "label": "Sales forecasting risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_493",
+      "label": "Client Retention Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_494",
+      "label": "Customer Purchasing Power Volatility",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_495",
+      "label": "Forecasting Dependence on Prior Forecasting Risks (Incorrect MMFE Assumption)",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_496",
+      "label": "Model Validity Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_497",
+      "label": "New Market Discovery Errors",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_498",
+      "label": "Operational Hedging Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_499",
+      "label": "Risks of Prepaid Unitary Services",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_500",
+      "label": "Seasonality Factors Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_501",
+      "label": "Underlying Market Drivers / Trends Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_502",
+      "label": "Unpredictable Demand",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L1_503",
+      "label": "Manage Value",
+      "level": 1,
+      "group": "Level 1"
+    },
+    {
+      "id": "L2_504",
+      "label": "Strategic Management",
+      "level": 2,
+      "group": "Level 2"
+    },
+    {
+      "id": "L3_505",
+      "label": "Business Strategy",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_506",
+      "label": "Distribution and retail channels",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_507",
+      "label": "High Bargaining Power Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_508",
+      "label": "Unfavorable Inventory Decisions Affecting Product Sales",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_509",
+      "label": "Private Label Offerings",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_510",
+      "label": "Market risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_511",
+      "label": "Market Concentration",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_512",
+      "label": "Product portfolio risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_513",
+      "label": "Clinical Trial Failures",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_514",
+      "label": "Inability to Innovate",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_515",
+      "label": "Non-Diversified Product Portfolio",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_516",
+      "label": "Product Launch Uncertainties",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_517",
+      "label": "Product Positioning Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_518",
+      "label": "Product Repositioning Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_519",
+      "label": "Product Upgrade Volatility",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_520",
+      "label": "R&D Conversion Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_521",
+      "label": "R&D Investment Deficit Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_522",
+      "label": "Single Product Overdependence",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_523",
+      "label": "Strategically Misaligned Business",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_524",
+      "label": "Underperforming Initiatives",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_525",
+      "label": "Corporate growth",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_526",
+      "label": "Divestiture risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_527",
+      "label": "Corporate Focus Loss",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_528",
+      "label": "Cost of Discontinued Operations",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_529",
+      "label": "Demerger Complications",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_530",
+      "label": "Executive Compensation",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_531",
+      "label": "Government Ownership",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_532",
+      "label": "Loss of Critical Talent",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_533",
+      "label": "Managerial Ownership",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_534",
+      "label": "Organization Restructuring",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_535",
+      "label": "Transition Service Agreements",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_536",
+      "label": "Unanticipated Costs",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_537",
+      "label": "Reduced / Cyclical Growth",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_538",
+      "label": "Growth rate risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_539",
+      "label": "Acquisition Price Premia / Overpayment",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_540",
+      "label": "Strategic alliances risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_541",
+      "label": "Acquisitions Target Unavailability / Competition",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_542",
+      "label": "Alliance Instability Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_543",
+      "label": "Brand Value Deterioration",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_544",
+      "label": "Cash Flow Restructuring Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_545",
+      "label": "Class Action Lawsuits Against M&A",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_546",
+      "label": "Core Asset Protection",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_547",
+      "label": "Core Competency Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_548",
+      "label": "Credit Rating Deterioration",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_549",
+      "label": "Cross-Border Difference",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_550",
+      "label": "Cross-Sectoral Strategic Alliances",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_551",
+      "label": "Delay In Completing Acquisitions",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_552",
+      "label": "Dual Network",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_553",
+      "label": "Financing Acquisitions by Issuing Shares",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_554",
+      "label": "Forced Internationalization",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_555",
+      "label": "Global Value Chain Management Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_556",
+      "label": "Goodwill Trust Under Valuation",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_557",
+      "label": "Group Culture",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_558",
+      "label": "Incomplete Contracts",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_559",
+      "label": "Information Exchange Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_560",
+      "label": "Insolvency",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_561",
+      "label": "Inter-Organizational Relationships",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_562",
+      "label": "International Strategic Alliance Risks (Laws)",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_563",
+      "label": "Investor Perceptions",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_564",
+      "label": "Knowledge Leakage",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_565",
+      "label": "Management Styles",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_566",
+      "label": "Mergers & Acquisitions Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_567",
+      "label": "Multiple Signaling",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_568",
+      "label": "Non-attractive Acquisition Inheritance",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_569",
+      "label": "Non-Equity Alliance Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_570",
+      "label": "Partnership Uncertainty",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_571",
+      "label": "Post-Formation Dynamics",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_572",
+      "label": "Post-Merger Integration",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_573",
+      "label": "Power And Competitive Dynamics",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_574",
+      "label": "Power Imbalance",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_575",
+      "label": "R&D Conversion",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_576",
+      "label": "Relational Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_577",
+      "label": "Risks With Joint Ventures",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_578",
+      "label": "Spill-Over Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_579",
+      "label": "Strategic Alliance Network Risks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_580",
+      "label": "Supplier Relations",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_581",
+      "label": "Transaction Cost Economics of Alliances",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_582",
+      "label": "Strategic execution risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_583",
+      "label": "Executive Age",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_584",
+      "label": "Executive Education and Technical Specialization",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_585",
+      "label": "Executive Tenure",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_586",
+      "label": "Growth Strategy",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_587",
+      "label": "Managing Growth in A Crisis",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_588",
+      "label": "Managing Multiple Initiatives",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_589",
+      "label": "Strategic Risk-Taking",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_590",
+      "label": "Financial and capital management",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_591",
+      "label": "Access risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_592",
+      "label": "Loss of Access to Capital Markets",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_593",
+      "label": "Capital expenditure risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_594",
+      "label": "Abnormal Information Technology Spending",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_595",
+      "label": "Capital Availability Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_596",
+      "label": "Inadequate Operational / Financial Hedging Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_597",
+      "label": "Inefficient capital deployment",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_598",
+      "label": "Currency exposure risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_599",
+      "label": "Currency Hedging Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_600",
+      "label": "Currency Options Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_601",
+      "label": "Derivative Markets Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_602",
+      "label": "Derivatives Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_603",
+      "label": "Financial Instruments Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_604",
+      "label": "Portfolio Investment Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_605",
+      "label": "Earnings cycle risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_606",
+      "label": "Cyclical Market Patterns",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_607",
+      "label": "Deficient Reserves Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_608",
+      "label": "Financial products risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_609",
+      "label": "Financial Education Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_610",
+      "label": "Financial Inclusion Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_611",
+      "label": "Insurance deficiencies risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_612",
+      "label": "Insurance Unaffordability",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_613",
+      "label": "Insurance Unavailability",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_614",
+      "label": "Underinsurance",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_615",
+      "label": "New regulation risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_616",
+      "label": "Compressed / Expanded timeline for Regulatory Compliance",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_617",
+      "label": "Plant and Machinery retrofitting",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_618",
+      "label": "Volatility risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_619",
+      "label": "Aggregate Volatility Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_620",
+      "label": "Asset Pricing Models Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_621",
+      "label": "Bidding Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_622",
+      "label": "Capital Flows Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_623",
+      "label": "Capital Mobility Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_624",
+      "label": "Carry Portfolios Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_625",
+      "label": "Corporate Bond Pricing Variation",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_626",
+      "label": "Countercyclical Return Volatility Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_627",
+      "label": "Credit Default Swap Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_628",
+      "label": "Diffusive Price Shocks Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_629",
+      "label": "Distress Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_630",
+      "label": "Diversification Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_631",
+      "label": "Earnings Announcements Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_632",
+      "label": "Efficient Frontier Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_633",
+      "label": "Exchange-Traded Funds Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_634",
+      "label": "Foreign Exchange Volatility",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_635",
+      "label": "Forward Volatility Agreement Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_636",
+      "label": "Future Realized Volatility",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_637",
+      "label": "Hedge Funds Loss",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_638",
+      "label": "High Variance Risk Premium",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_639",
+      "label": "Housing Market Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_640",
+      "label": "Incomplete Bond Markets Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_641",
+      "label": "Index Option Returns Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_642",
+      "label": "Investor Sentiment Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_643",
+      "label": "Jump Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_644",
+      "label": "Leverage Effect Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_645",
+      "label": "Linear Factor Models Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_646",
+      "label": "Liquidity Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_647",
+      "label": "Low Return Predictability",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_648",
+      "label": "Low Reward-to-Volatility Ratio",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_649",
+      "label": "Maturity Effect Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_650",
+      "label": "Maturity Gaps Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_651",
+      "label": "No-Arbitrage Model Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_652",
+      "label": "Non-Diversifiable Volatility Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_653",
+      "label": "Option Implied Volatility Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_654",
+      "label": "Option Realized Volatility Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_655",
+      "label": "Options Market Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_656",
+      "label": "Options Volatility Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_657",
+      "label": "Political Risk to Pricing",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_658",
+      "label": "Polynomial Goal Programming Method Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_659",
+      "label": "Portfolio Selection Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_660",
+      "label": "Price Uncertainty Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_661",
+      "label": "Pricing Kernel Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_662",
+      "label": "Proportional Variance Dynamics Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_663",
+      "label": "Recursive Utility Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_664",
+      "label": "Return Volatility Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_665",
+      "label": "Revenue Insurance Price Volatility Factor",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_666",
+      "label": "Sell-side Sentiment Risk Leading to Stock Price Volatility",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_667",
+      "label": "Sequential Information Hypothesis Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_668",
+      "label": "Short-Term Interest Rate Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_669",
+      "label": "Skewness Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_670",
+      "label": "Small Growth Anomaly",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_671",
+      "label": "Speculative Pressure",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_672",
+      "label": "Swap Rate Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_673",
+      "label": "Systematic Liquidity Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_674",
+      "label": "Timing Inability",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_675",
+      "label": "Unanticipated Cost Shock Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_676",
+      "label": "Variance Swap Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_677",
+      "label": "Volatility Term Structure",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_678",
+      "label": "Zero-Beta Straddle Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_679",
+      "label": "Governance matters",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_680",
+      "label": "Corporate architecture risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_681",
+      "label": "New Regulatory Rules",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_682",
+      "label": "Financial reporting risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_683",
+      "label": "Accounting Approach",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_684",
+      "label": "Accounting Disclosures",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_685",
+      "label": "Accounting Policies",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_686",
+      "label": "Accounting Reporting Complexity",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_687",
+      "label": "Accounting Standard Precision",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_688",
+      "label": "Aggressive Reporting",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_689",
+      "label": "Asset Measurement Uncertainty",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_690",
+      "label": "Asset Restructuring",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_691",
+      "label": "Audit Documentation Methods",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_692",
+      "label": "Audit Firm Merger",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_693",
+      "label": "Audit Partner Judgments",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_694",
+      "label": "Audit Partner Tenure",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_695",
+      "label": "Audit Process",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_696",
+      "label": "Auditor Tenure",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_697",
+      "label": "Board Quality",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_698",
+      "label": "Capital Raisings",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_699",
+      "label": "CEO Financial Expertise",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_700",
+      "label": "CEO Overconfidence",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_701",
+      "label": "Claw back Provisions",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_702",
+      "label": "Company-Level Versus Account-Specific Internal Control Weaknesses",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_703",
+      "label": "Contract Fulfilment Value",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_704",
+      "label": "Corporate Reporting",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_705",
+      "label": "Country Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_706",
+      "label": "Credit-Linked Notes",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_707",
+      "label": "Debt Maturity",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_708",
+      "label": "Detection Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_709",
+      "label": "Diversity of Opinion",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_710",
+      "label": "Earnings Manipulation Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_711",
+      "label": "Earnings Misstatement",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_712",
+      "label": "Earnings Reliability",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_713",
+      "label": "Earnings Smoothing",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_714",
+      "label": "Earnings-Based Delisting Regulation",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_715",
+      "label": "Equity Investment",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_716",
+      "label": "Equity Valuation",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_717",
+      "label": "Executive Compensation",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_718",
+      "label": "Financial Reporting Transparency",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_719",
+      "label": "Foreign Exchange Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_720",
+      "label": "Forward Contracts",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_721",
+      "label": "Fraud Litigation",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_722",
+      "label": "Fraudulent Financial Reporting",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_723",
+      "label": "Intangible Assets",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_724",
+      "label": "Internal Busyness",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_725",
+      "label": "Legacy Financial Accounting System",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_726",
+      "label": "Management Control Philosophy",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_727",
+      "label": "Management Control Systems",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_728",
+      "label": "Management Forecast",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_729",
+      "label": "Management Relationships",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_730",
+      "label": "Management Turnover",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_731",
+      "label": "Non-audit Fees",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_732",
+      "label": "Nonofficer Directors",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_733",
+      "label": "Organization Structure",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_734",
+      "label": "Organizational Problems",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_735",
+      "label": "Perceived Earnings Quality",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_736",
+      "label": "Public Sector Financial Reporting",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_737",
+      "label": "Regulatory Environment",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_738",
+      "label": "Reporting Quality",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_739",
+      "label": "Reverse Mergers",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_740",
+      "label": "Risk-Based Pricing",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_741",
+      "label": "Spreadsheet Controls",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_742",
+      "label": "Stock Option Vesting Periods",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_743",
+      "label": "Stock Price Crash Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_744",
+      "label": "Stock-Bond Correlation",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_745",
+      "label": "Tax Information Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_746",
+      "label": "Tax Reserves",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_747",
+      "label": "Verifiability",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_748",
+      "label": "Warrant Pricing",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_749",
+      "label": "Leadership Succession risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_750",
+      "label": "Inadequate / Unclear Succession Plan",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_751",
+      "label": "Shareholder welfare risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_752",
+      "label": "Dividend Taxes",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_753",
+      "label": "Dividends Issuance",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_754",
+      "label": "Executive Compensation",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_755",
+      "label": "Firm Value",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_756",
+      "label": "Information Disclosure",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_757",
+      "label": "Risk Premium",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_758",
+      "label": "Share Overhang / Dilution Risk Due to Secondary Offerings",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_759",
+      "label": "Share Value",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_760",
+      "label": "Shareholder Activism",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_761",
+      "label": "Shareholder Conflict of Interest",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_762",
+      "label": "Stock Issuance",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_763",
+      "label": "Stock Volatility",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_764",
+      "label": "Takeover",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_765",
+      "label": "Variable Compensation (performance bonus) Decisions",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_766",
+      "label": "Women Board Directors",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_767",
+      "label": "Human capital",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_768",
+      "label": "Employee bargaining power risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_769",
+      "label": "Contractual Restrictions and Challenges",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_770",
+      "label": "Country Specific Laws Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_771",
+      "label": "Expiring Collective Bargaining Agreements",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_772",
+      "label": "Labor Costs",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_773",
+      "label": "Strikes And Related Relations",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_774",
+      "label": "Unionization",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_775",
+      "label": "Key personnel risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_776",
+      "label": "Business Management Continuity Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_777",
+      "label": "Knowledge Continuity Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_778",
+      "label": "Vertical Knowledge Transfer Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_779",
+      "label": "Stakeholder health and safety risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_780",
+      "label": "Customer Health and Safety",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_781",
+      "label": "Personnel Health and Safety",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_782",
+      "label": "Talent and staffing risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_783",
+      "label": "Accelerated Attrition Rates",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_784",
+      "label": "Competition for Talent",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_785",
+      "label": "Immigration and Regulation Restrictions",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_786",
+      "label": "Staff Retention",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_787",
+      "label": "Talent Scarcity",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_788",
+      "label": "Understaffing",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L1_789",
+      "label": "Protect Value",
+      "level": 1,
+      "group": "Level 1"
+    },
+    {
+      "id": "L2_790",
+      "label": "Commercial standing",
+      "level": 2,
+      "group": "Level 2"
+    },
+    {
+      "id": "L3_791",
+      "label": "Competitive environment",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_792",
+      "label": "Competition risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_793",
+      "label": "Availability of Substitutes",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_794",
+      "label": "Cannibalization",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_795",
+      "label": "Competitor Offering Adoption",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_796",
+      "label": "Disruptive Technology",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_797",
+      "label": "Generics and Biosimilars",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_798",
+      "label": "Illegal Imports and Products",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_799",
+      "label": "Industry Consolidation",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_800",
+      "label": "Intense Price Competition",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_801",
+      "label": "Low Barriers to Entry",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_802",
+      "label": "Lower Convenience in Offerings",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_803",
+      "label": "Lower Visibility",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_804",
+      "label": "Market Share",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_805",
+      "label": "New Entrants",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_806",
+      "label": "New Product Introductions",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_807",
+      "label": "Poor Product Mix",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_808",
+      "label": "Demand risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_809",
+      "label": "B2B Demand Sensitivity",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_810",
+      "label": "Customer Buying Patterns Volatility",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_811",
+      "label": "Demand Concentration",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_812",
+      "label": "Highly Distributed Demand",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_813",
+      "label": "Reduced Demand",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_814",
+      "label": "Core competency",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_815",
+      "label": "Key differentiator loss risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_816",
+      "label": "Inability to Fast Follow",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_817",
+      "label": "Loss of Technological Edge",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_818",
+      "label": "Obsolescence",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_819",
+      "label": "Obsolescent Solutions",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_820",
+      "label": "Customer environment",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_821",
+      "label": "Customer risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_822",
+      "label": "Reduced Customer Spending",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_823",
+      "label": "Reduced Customer Volumes",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_824",
+      "label": "Default",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_825",
+      "label": "Loan defaults",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_826",
+      "label": "Risks to Collateral",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_827",
+      "label": "Industry dynamism",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_828",
+      "label": "Marketplace Complexity",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_829",
+      "label": "Several Stakeholders",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_830",
+      "label": "Technological intensity",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_831",
+      "label": "Changing Industrial Standards",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_832",
+      "label": "Rapid Technological Changes",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_833",
+      "label": "Intellectual property",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_834",
+      "label": "IP access risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_835",
+      "label": "Foreign IP Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_836",
+      "label": "IP Application Rejection",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_837",
+      "label": "IP Loss / Expiration",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_838",
+      "label": "IP Unavailability for Third Party",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_839",
+      "label": "IP infringement risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_840",
+      "label": "Confidentiality Agreements and Trade Secrets Breach",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_841",
+      "label": "Copyright Theft",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_842",
+      "label": "Counterfeit Products",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_843",
+      "label": "IP Protection Implementation Ability",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_844",
+      "label": "Operational risk",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_845",
+      "label": "Value chain stability",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_846",
+      "label": "Re-contracting risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L3_847",
+      "label": "Product conformity",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_848",
+      "label": "Product liability risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_849",
+      "label": "Equipment Malfunction",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_850",
+      "label": "Product regulation risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_851",
+      "label": "Product regulation risk (L5)",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L2_852",
+      "label": "Geopolitical standing",
+      "level": 2,
+      "group": "Level 2"
+    },
+    {
+      "id": "L3_853",
+      "label": "Geopolitical",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_854",
+      "label": "Geopolitical uncertainties",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_855",
+      "label": "Barrier To Travel and Immagration",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_856",
+      "label": "Civil and Social Unrest",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_857",
+      "label": "International Law and Regulatory Uncertainties",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_858",
+      "label": "Law Interpretation Variation",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_859",
+      "label": "Market Disintigration (Brexit)",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_860",
+      "label": "Nationalisation and Expopriation",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_861",
+      "label": "Political Instability",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_862",
+      "label": "Protectionism By Local Governments",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_863",
+      "label": "Taridds on Imports / Exports",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_864",
+      "label": "Terrorism",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_865",
+      "label": "Trade Barriers",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_866",
+      "label": "Weather and Climate Change Shocks",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L2_867",
+      "label": "Legal Standing",
+      "level": 2,
+      "group": "Level 2"
+    },
+    {
+      "id": "L3_868",
+      "label": "Legal",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_869",
+      "label": "Information security risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_870",
+      "label": "Cybersecurity Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_871",
+      "label": "Data Integrity Breach Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_872",
+      "label": "Information Breach at Value Chain Partner",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_873",
+      "label": "Sensitive Information Breach Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_874",
+      "label": "Stakeholder Data Privacy Breach Risk",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L4_875",
+      "label": "Legal and regulatory risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_876",
+      "label": "Contamination Risk or Liability for Historical Contamination",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_877",
+      "label": "Ethical Conduct Infringements",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_878",
+      "label": "Healthcare Regulations",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_879",
+      "label": "New Environment and Sustainability Regulations",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_880",
+      "label": "Regulatory Reforms",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L1_881",
+      "label": "Sustain Value",
+      "level": 1,
+      "group": "Level 1"
+    },
+    {
+      "id": "L2_882",
+      "label": "Paradigmatic standing",
+      "level": 2,
+      "group": "Level 2"
+    },
+    {
+      "id": "L3_883",
+      "label": "Trends",
+      "level": 3,
+      "group": "Level 3"
+    },
+    {
+      "id": "L4_884",
+      "label": "Paradigm shift risk",
+      "level": 4,
+      "group": "Level 4"
+    },
+    {
+      "id": "L5_885",
+      "label": "Artificial Intelligence",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_886",
+      "label": "Attention Economy",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_887",
+      "label": "Autonomous Technologies",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_888",
+      "label": "Big Data",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_889",
+      "label": "Blockchain",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_890",
+      "label": "Blue/Green Growth",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_891",
+      "label": "Business Model Changes",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_892",
+      "label": "Cloud Computing",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_893",
+      "label": "Co-Operative Organizations",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_894",
+      "label": "Corporate Culture Transitions",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_895",
+      "label": "Digital Healthcare",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_896",
+      "label": "E-Commerce",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_897",
+      "label": "Fintech",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_898",
+      "label": "Global Trends",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_899",
+      "label": "Industry 4.0",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_900",
+      "label": "Internet Of Things",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_901",
+      "label": "Job Elimination and Reskilling",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_902",
+      "label": "Low-Carbon Tourism",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_903",
+      "label": "Nanotechnology",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_904",
+      "label": "Open Innovation",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_905",
+      "label": "Open-Source Development",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_906",
+      "label": "P2P Lending",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_907",
+      "label": "Point-Of-Care Testing",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_908",
+      "label": "Renewable Energies",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_909",
+      "label": "Sharing Economy",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_910",
+      "label": "Urban Investment",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_911",
+      "label": "Vehicle Electrification",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_912",
+      "label": "Virtual Assistants and Digital Companions",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_913",
+      "label": "Virtual Drop-In Clinic",
+      "level": 5,
+      "group": "Level 5"
+    },
+    {
+      "id": "L5_914",
+      "label": "Wearable Sensors",
+      "level": 5,
+      "group": "Level 5"
+    }
+  ],
+  "edges": [
+    {
+      "from": "L0_0",
+      "to": "L1_1"
+    },
+    {
+      "from": "L1_1",
+      "to": "L2_2"
+    },
+    {
+      "from": "L2_2",
+      "to": "L3_3"
+    },
+    {
+      "from": "L3_3",
+      "to": "L4_4"
+    },
+    {
+      "from": "L4_4",
+      "to": "L5_5"
+    },
+    {
+      "from": "L3_3",
+      "to": "L4_6"
+    },
+    {
+      "from": "L4_6",
+      "to": "L5_7"
+    },
+    {
+      "from": "L4_6",
+      "to": "L5_8"
+    },
+    {
+      "from": "L4_6",
+      "to": "L5_9"
+    },
+    {
+      "from": "L4_6",
+      "to": "L5_10"
+    },
+    {
+      "from": "L4_6",
+      "to": "L5_11"
+    },
+    {
+      "from": "L4_6",
+      "to": "L5_12"
+    },
+    {
+      "from": "L2_2",
+      "to": "L3_13"
+    },
+    {
+      "from": "L3_13",
+      "to": "L4_14"
+    },
+    {
+      "from": "L4_14",
+      "to": "L5_15"
+    },
+    {
+      "from": "L3_13",
+      "to": "L4_16"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_17"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_18"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_19"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_20"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_21"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_22"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_23"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_24"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_25"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_26"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_27"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_28"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_29"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_30"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_31"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_32"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_33"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_34"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_35"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_36"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_37"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_38"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_39"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_40"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_41"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_42"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_43"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_44"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_45"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_46"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_47"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_48"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_49"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_50"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_51"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_52"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_53"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_54"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_55"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_56"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_57"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_58"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_59"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_60"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_61"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_62"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_63"
+    },
+    {
+      "from": "L4_16",
+      "to": "L5_64"
+    },
+    {
+      "from": "L3_13",
+      "to": "L4_65"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_66"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_67"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_68"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_69"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_70"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_71"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_72"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_73"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_74"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_75"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_76"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_77"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_78"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_79"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_80"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_81"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_82"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_83"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_84"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_85"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_86"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_87"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_88"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_89"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_90"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_91"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_92"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_93"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_94"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_95"
+    },
+    {
+      "from": "L4_65",
+      "to": "L5_96"
+    },
+    {
+      "from": "L3_13",
+      "to": "L4_97"
+    },
+    {
+      "from": "L4_97",
+      "to": "L5_98"
+    },
+    {
+      "from": "L3_13",
+      "to": "L4_99"
+    },
+    {
+      "from": "L4_99",
+      "to": "L5_100"
+    },
+    {
+      "from": "L2_2",
+      "to": "L3_101"
+    },
+    {
+      "from": "L3_101",
+      "to": "L4_102"
+    },
+    {
+      "from": "L4_102",
+      "to": "L5_103"
+    },
+    {
+      "from": "L4_102",
+      "to": "L5_104"
+    },
+    {
+      "from": "L4_102",
+      "to": "L5_105"
+    },
+    {
+      "from": "L4_102",
+      "to": "L5_106"
+    },
+    {
+      "from": "L4_102",
+      "to": "L5_107"
+    },
+    {
+      "from": "L4_102",
+      "to": "L5_108"
+    },
+    {
+      "from": "L4_102",
+      "to": "L5_109"
+    },
+    {
+      "from": "L4_102",
+      "to": "L5_110"
+    },
+    {
+      "from": "L4_102",
+      "to": "L5_111"
+    },
+    {
+      "from": "L4_102",
+      "to": "L5_112"
+    },
+    {
+      "from": "L4_102",
+      "to": "L5_113"
+    },
+    {
+      "from": "L3_101",
+      "to": "L4_114"
+    },
+    {
+      "from": "L4_114",
+      "to": "L5_115"
+    },
+    {
+      "from": "L4_114",
+      "to": "L5_116"
+    },
+    {
+      "from": "L4_114",
+      "to": "L5_117"
+    },
+    {
+      "from": "L4_114",
+      "to": "L5_118"
+    },
+    {
+      "from": "L3_101",
+      "to": "L4_119"
+    },
+    {
+      "from": "L4_119",
+      "to": "L5_120"
+    },
+    {
+      "from": "L4_119",
+      "to": "L5_121"
+    },
+    {
+      "from": "L4_119",
+      "to": "L5_122"
+    },
+    {
+      "from": "L4_119",
+      "to": "L5_123"
+    },
+    {
+      "from": "L4_119",
+      "to": "L5_124"
+    },
+    {
+      "from": "L4_119",
+      "to": "L5_125"
+    },
+    {
+      "from": "L4_119",
+      "to": "L5_126"
+    },
+    {
+      "from": "L2_2",
+      "to": "L3_127"
+    },
+    {
+      "from": "L3_127",
+      "to": "L4_128"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_129"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_130"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_131"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_132"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_133"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_134"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_135"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_136"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_137"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_138"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_139"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_140"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_141"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_142"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_143"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_144"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_145"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_146"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_147"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_148"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_149"
+    },
+    {
+      "from": "L4_128",
+      "to": "L5_150"
+    },
+    {
+      "from": "L3_127",
+      "to": "L4_151"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_152"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_153"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_154"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_155"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_156"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_157"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_158"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_159"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_160"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_161"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_162"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_163"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_164"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_165"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_166"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_167"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_168"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_169"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_170"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_171"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_172"
+    },
+    {
+      "from": "L4_151",
+      "to": "L5_173"
+    },
+    {
+      "from": "L3_127",
+      "to": "L4_174"
+    },
+    {
+      "from": "L4_174",
+      "to": "L5_175"
+    },
+    {
+      "from": "L3_127",
+      "to": "L4_176"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_177"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_178"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_179"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_180"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_181"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_182"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_183"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_184"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_185"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_186"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_187"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_188"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_189"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_190"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_191"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_192"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_193"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_194"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_195"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_196"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_197"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_198"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_199"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_200"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_201"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_202"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_203"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_204"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_205"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_206"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_207"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_208"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_209"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_210"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_211"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_212"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_213"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_214"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_215"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_216"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_217"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_218"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_219"
+    },
+    {
+      "from": "L4_176",
+      "to": "L5_220"
+    },
+    {
+      "from": "L2_2",
+      "to": "L3_221"
+    },
+    {
+      "from": "L3_221",
+      "to": "L4_222"
+    },
+    {
+      "from": "L4_222",
+      "to": "L5_223"
+    },
+    {
+      "from": "L4_222",
+      "to": "L5_224"
+    },
+    {
+      "from": "L4_222",
+      "to": "L5_225"
+    },
+    {
+      "from": "L4_222",
+      "to": "L5_226"
+    },
+    {
+      "from": "L4_222",
+      "to": "L5_227"
+    },
+    {
+      "from": "L4_222",
+      "to": "L5_228"
+    },
+    {
+      "from": "L4_222",
+      "to": "L5_229"
+    },
+    {
+      "from": "L3_221",
+      "to": "L4_230"
+    },
+    {
+      "from": "L4_230",
+      "to": "L5_231"
+    },
+    {
+      "from": "L4_230",
+      "to": "L5_232"
+    },
+    {
+      "from": "L4_230",
+      "to": "L5_233"
+    },
+    {
+      "from": "L4_230",
+      "to": "L5_234"
+    },
+    {
+      "from": "L3_221",
+      "to": "L4_235"
+    },
+    {
+      "from": "L4_235",
+      "to": "L5_236"
+    },
+    {
+      "from": "L4_235",
+      "to": "L5_237"
+    },
+    {
+      "from": "L4_235",
+      "to": "L5_238"
+    },
+    {
+      "from": "L4_235",
+      "to": "L5_239"
+    },
+    {
+      "from": "L4_235",
+      "to": "L5_240"
+    },
+    {
+      "from": "L4_235",
+      "to": "L5_241"
+    },
+    {
+      "from": "L4_235",
+      "to": "L5_242"
+    },
+    {
+      "from": "L4_235",
+      "to": "L5_243"
+    },
+    {
+      "from": "L4_235",
+      "to": "L5_244"
+    },
+    {
+      "from": "L4_235",
+      "to": "L5_245"
+    },
+    {
+      "from": "L4_235",
+      "to": "L5_246"
+    },
+    {
+      "from": "L4_235",
+      "to": "L5_247"
+    },
+    {
+      "from": "L4_235",
+      "to": "L5_248"
+    },
+    {
+      "from": "L4_235",
+      "to": "L5_249"
+    },
+    {
+      "from": "L3_221",
+      "to": "L4_250"
+    },
+    {
+      "from": "L4_250",
+      "to": "L5_251"
+    },
+    {
+      "from": "L3_221",
+      "to": "L4_252"
+    },
+    {
+      "from": "L4_252",
+      "to": "L5_253"
+    },
+    {
+      "from": "L4_252",
+      "to": "L5_254"
+    },
+    {
+      "from": "L4_252",
+      "to": "L5_255"
+    },
+    {
+      "from": "L4_252",
+      "to": "L5_256"
+    },
+    {
+      "from": "L4_252",
+      "to": "L5_257"
+    },
+    {
+      "from": "L4_252",
+      "to": "L5_258"
+    },
+    {
+      "from": "L4_252",
+      "to": "L5_259"
+    },
+    {
+      "from": "L4_252",
+      "to": "L5_260"
+    },
+    {
+      "from": "L4_252",
+      "to": "L5_261"
+    },
+    {
+      "from": "L4_252",
+      "to": "L5_262"
+    },
+    {
+      "from": "L4_252",
+      "to": "L5_263"
+    },
+    {
+      "from": "L2_2",
+      "to": "L3_264"
+    },
+    {
+      "from": "L3_264",
+      "to": "L4_265"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_266"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_267"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_268"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_269"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_270"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_271"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_272"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_273"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_274"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_275"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_276"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_277"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_278"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_279"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_280"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_281"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_282"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_283"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_284"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_285"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_286"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_287"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_288"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_289"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_290"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_291"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_292"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_293"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_294"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_295"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_296"
+    },
+    {
+      "from": "L4_265",
+      "to": "L5_297"
+    },
+    {
+      "from": "L3_264",
+      "to": "L4_298"
+    },
+    {
+      "from": "L4_298",
+      "to": "L5_299"
+    },
+    {
+      "from": "L4_298",
+      "to": "L5_300"
+    },
+    {
+      "from": "L4_298",
+      "to": "L5_301"
+    },
+    {
+      "from": "L4_298",
+      "to": "L5_302"
+    },
+    {
+      "from": "L4_298",
+      "to": "L5_303"
+    },
+    {
+      "from": "L4_298",
+      "to": "L5_304"
+    },
+    {
+      "from": "L4_298",
+      "to": "L5_305"
+    },
+    {
+      "from": "L4_298",
+      "to": "L5_306"
+    },
+    {
+      "from": "L4_298",
+      "to": "L5_307"
+    },
+    {
+      "from": "L3_264",
+      "to": "L4_308"
+    },
+    {
+      "from": "L4_308",
+      "to": "L5_309"
+    },
+    {
+      "from": "L4_308",
+      "to": "L5_310"
+    },
+    {
+      "from": "L4_308",
+      "to": "L5_311"
+    },
+    {
+      "from": "L4_308",
+      "to": "L5_312"
+    },
+    {
+      "from": "L4_308",
+      "to": "L5_313"
+    },
+    {
+      "from": "L4_308",
+      "to": "L5_314"
+    },
+    {
+      "from": "L4_308",
+      "to": "L5_315"
+    },
+    {
+      "from": "L4_308",
+      "to": "L5_316"
+    },
+    {
+      "from": "L4_308",
+      "to": "L5_317"
+    },
+    {
+      "from": "L4_308",
+      "to": "L5_318"
+    },
+    {
+      "from": "L4_308",
+      "to": "L5_319"
+    },
+    {
+      "from": "L4_308",
+      "to": "L5_320"
+    },
+    {
+      "from": "L0_0",
+      "to": "L1_321"
+    },
+    {
+      "from": "L1_321",
+      "to": "L2_322"
+    },
+    {
+      "from": "L2_322",
+      "to": "L3_323"
+    },
+    {
+      "from": "L3_323",
+      "to": "L4_324"
+    },
+    {
+      "from": "L4_324",
+      "to": "L5_325"
+    },
+    {
+      "from": "L4_324",
+      "to": "L5_326"
+    },
+    {
+      "from": "L4_324",
+      "to": "L5_327"
+    },
+    {
+      "from": "L4_324",
+      "to": "L5_328"
+    },
+    {
+      "from": "L0_0",
+      "to": "L1_329"
+    },
+    {
+      "from": "L1_329",
+      "to": "L2_330"
+    },
+    {
+      "from": "L2_330",
+      "to": "L3_331"
+    },
+    {
+      "from": "L3_331",
+      "to": "L4_332"
+    },
+    {
+      "from": "L4_332",
+      "to": "L5_333"
+    },
+    {
+      "from": "L4_332",
+      "to": "L5_334"
+    },
+    {
+      "from": "L2_330",
+      "to": "L3_335"
+    },
+    {
+      "from": "L3_335",
+      "to": "L4_336"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_337"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_338"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_339"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_340"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_341"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_342"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_343"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_344"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_345"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_346"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_347"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_348"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_349"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_350"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_351"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_352"
+    },
+    {
+      "from": "L4_336",
+      "to": "L5_353"
+    },
+    {
+      "from": "L3_335",
+      "to": "L4_354"
+    },
+    {
+      "from": "L4_354",
+      "to": "L5_355"
+    },
+    {
+      "from": "L4_354",
+      "to": "L5_356"
+    },
+    {
+      "from": "L3_335",
+      "to": "L4_357"
+    },
+    {
+      "from": "L4_357",
+      "to": "L5_358"
+    },
+    {
+      "from": "L4_357",
+      "to": "L5_359"
+    },
+    {
+      "from": "L3_335",
+      "to": "L4_360"
+    },
+    {
+      "from": "L4_360",
+      "to": "L5_361"
+    },
+    {
+      "from": "L4_360",
+      "to": "L5_362"
+    },
+    {
+      "from": "L4_360",
+      "to": "L5_363"
+    },
+    {
+      "from": "L4_360",
+      "to": "L5_364"
+    },
+    {
+      "from": "L4_360",
+      "to": "L5_365"
+    },
+    {
+      "from": "L4_360",
+      "to": "L5_366"
+    },
+    {
+      "from": "L4_360",
+      "to": "L5_367"
+    },
+    {
+      "from": "L2_330",
+      "to": "L3_368"
+    },
+    {
+      "from": "L3_368",
+      "to": "L4_369"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_370"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_371"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_372"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_373"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_374"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_375"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_376"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_377"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_378"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_379"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_380"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_381"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_382"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_383"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_384"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_385"
+    },
+    {
+      "from": "L4_369",
+      "to": "L5_386"
+    },
+    {
+      "from": "L3_368",
+      "to": "L4_387"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_388"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_389"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_390"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_391"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_392"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_393"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_394"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_395"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_396"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_397"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_398"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_399"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_400"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_401"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_402"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_403"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_404"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_405"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_406"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_407"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_408"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_409"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_410"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_411"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_412"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_413"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_414"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_415"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_416"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_417"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_418"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_419"
+    },
+    {
+      "from": "L4_387",
+      "to": "L5_420"
+    },
+    {
+      "from": "L2_330",
+      "to": "L3_421"
+    },
+    {
+      "from": "L3_421",
+      "to": "L4_422"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_423"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_424"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_425"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_426"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_427"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_428"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_429"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_430"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_431"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_432"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_433"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_434"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_435"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_436"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_437"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_438"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_439"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_440"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_441"
+    },
+    {
+      "from": "L4_422",
+      "to": "L5_442"
+    },
+    {
+      "from": "L1_329",
+      "to": "L2_443"
+    },
+    {
+      "from": "L2_443",
+      "to": "L3_444"
+    },
+    {
+      "from": "L3_444",
+      "to": "L4_445"
+    },
+    {
+      "from": "L4_445",
+      "to": "L5_446"
+    },
+    {
+      "from": "L4_445",
+      "to": "L5_447"
+    },
+    {
+      "from": "L0_0",
+      "to": "L1_448"
+    },
+    {
+      "from": "L1_448",
+      "to": "L2_449"
+    },
+    {
+      "from": "L2_449",
+      "to": "L3_450"
+    },
+    {
+      "from": "L3_450",
+      "to": "L4_451"
+    },
+    {
+      "from": "L4_451",
+      "to": "L5_452"
+    },
+    {
+      "from": "L4_451",
+      "to": "L5_453"
+    },
+    {
+      "from": "L4_451",
+      "to": "L5_454"
+    },
+    {
+      "from": "L3_450",
+      "to": "L4_455"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_456"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_457"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_458"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_459"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_460"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_461"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_462"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_463"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_464"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_465"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_466"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_467"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_468"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_469"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_470"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_471"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_472"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_473"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_474"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_475"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_476"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_477"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_478"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_479"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_480"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_481"
+    },
+    {
+      "from": "L4_455",
+      "to": "L5_482"
+    },
+    {
+      "from": "L3_450",
+      "to": "L4_483"
+    },
+    {
+      "from": "L4_483",
+      "to": "L5_484"
+    },
+    {
+      "from": "L4_483",
+      "to": "L5_485"
+    },
+    {
+      "from": "L0_0",
+      "to": "L1_486"
+    },
+    {
+      "from": "L1_486",
+      "to": "L2_487"
+    },
+    {
+      "from": "L2_487",
+      "to": "L3_488"
+    },
+    {
+      "from": "L3_488",
+      "to": "L4_489"
+    },
+    {
+      "from": "L4_489",
+      "to": "L5_490"
+    },
+    {
+      "from": "L4_489",
+      "to": "L5_491"
+    },
+    {
+      "from": "L3_488",
+      "to": "L4_492"
+    },
+    {
+      "from": "L4_492",
+      "to": "L5_493"
+    },
+    {
+      "from": "L4_492",
+      "to": "L5_494"
+    },
+    {
+      "from": "L4_492",
+      "to": "L5_495"
+    },
+    {
+      "from": "L4_492",
+      "to": "L5_496"
+    },
+    {
+      "from": "L4_492",
+      "to": "L5_497"
+    },
+    {
+      "from": "L4_492",
+      "to": "L5_498"
+    },
+    {
+      "from": "L4_492",
+      "to": "L5_499"
+    },
+    {
+      "from": "L4_492",
+      "to": "L5_500"
+    },
+    {
+      "from": "L4_492",
+      "to": "L5_501"
+    },
+    {
+      "from": "L4_492",
+      "to": "L5_502"
+    },
+    {
+      "from": "L0_0",
+      "to": "L1_503"
+    },
+    {
+      "from": "L1_503",
+      "to": "L2_504"
+    },
+    {
+      "from": "L2_504",
+      "to": "L3_505"
+    },
+    {
+      "from": "L3_505",
+      "to": "L4_506"
+    },
+    {
+      "from": "L4_506",
+      "to": "L5_507"
+    },
+    {
+      "from": "L4_506",
+      "to": "L5_508"
+    },
+    {
+      "from": "L4_506",
+      "to": "L5_509"
+    },
+    {
+      "from": "L3_505",
+      "to": "L4_510"
+    },
+    {
+      "from": "L4_510",
+      "to": "L5_511"
+    },
+    {
+      "from": "L3_505",
+      "to": "L4_512"
+    },
+    {
+      "from": "L4_512",
+      "to": "L5_513"
+    },
+    {
+      "from": "L4_512",
+      "to": "L5_514"
+    },
+    {
+      "from": "L4_512",
+      "to": "L5_515"
+    },
+    {
+      "from": "L4_512",
+      "to": "L5_516"
+    },
+    {
+      "from": "L4_512",
+      "to": "L5_517"
+    },
+    {
+      "from": "L4_512",
+      "to": "L5_518"
+    },
+    {
+      "from": "L4_512",
+      "to": "L5_519"
+    },
+    {
+      "from": "L4_512",
+      "to": "L5_520"
+    },
+    {
+      "from": "L4_512",
+      "to": "L5_521"
+    },
+    {
+      "from": "L4_512",
+      "to": "L5_522"
+    },
+    {
+      "from": "L4_512",
+      "to": "L5_523"
+    },
+    {
+      "from": "L4_512",
+      "to": "L5_524"
+    },
+    {
+      "from": "L2_504",
+      "to": "L3_525"
+    },
+    {
+      "from": "L3_525",
+      "to": "L4_526"
+    },
+    {
+      "from": "L4_526",
+      "to": "L5_527"
+    },
+    {
+      "from": "L4_526",
+      "to": "L5_528"
+    },
+    {
+      "from": "L4_526",
+      "to": "L5_529"
+    },
+    {
+      "from": "L4_526",
+      "to": "L5_530"
+    },
+    {
+      "from": "L4_526",
+      "to": "L5_531"
+    },
+    {
+      "from": "L4_526",
+      "to": "L5_532"
+    },
+    {
+      "from": "L4_526",
+      "to": "L5_533"
+    },
+    {
+      "from": "L4_526",
+      "to": "L5_534"
+    },
+    {
+      "from": "L4_526",
+      "to": "L5_535"
+    },
+    {
+      "from": "L4_526",
+      "to": "L5_536"
+    },
+    {
+      "from": "L4_526",
+      "to": "L5_537"
+    },
+    {
+      "from": "L3_525",
+      "to": "L4_538"
+    },
+    {
+      "from": "L4_538",
+      "to": "L5_539"
+    },
+    {
+      "from": "L3_525",
+      "to": "L4_540"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_541"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_542"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_543"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_544"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_545"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_546"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_547"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_548"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_549"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_550"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_551"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_552"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_553"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_554"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_555"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_556"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_557"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_558"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_559"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_560"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_561"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_562"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_563"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_564"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_565"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_566"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_567"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_568"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_569"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_570"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_571"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_572"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_573"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_574"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_575"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_576"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_577"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_578"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_579"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_580"
+    },
+    {
+      "from": "L4_540",
+      "to": "L5_581"
+    },
+    {
+      "from": "L3_525",
+      "to": "L4_582"
+    },
+    {
+      "from": "L4_582",
+      "to": "L5_583"
+    },
+    {
+      "from": "L4_582",
+      "to": "L5_584"
+    },
+    {
+      "from": "L4_582",
+      "to": "L5_585"
+    },
+    {
+      "from": "L4_582",
+      "to": "L5_586"
+    },
+    {
+      "from": "L4_582",
+      "to": "L5_587"
+    },
+    {
+      "from": "L4_582",
+      "to": "L5_588"
+    },
+    {
+      "from": "L4_582",
+      "to": "L5_589"
+    },
+    {
+      "from": "L2_504",
+      "to": "L3_590"
+    },
+    {
+      "from": "L3_590",
+      "to": "L4_591"
+    },
+    {
+      "from": "L4_591",
+      "to": "L5_592"
+    },
+    {
+      "from": "L3_590",
+      "to": "L4_593"
+    },
+    {
+      "from": "L4_593",
+      "to": "L5_594"
+    },
+    {
+      "from": "L4_593",
+      "to": "L5_595"
+    },
+    {
+      "from": "L4_593",
+      "to": "L5_596"
+    },
+    {
+      "from": "L4_593",
+      "to": "L5_597"
+    },
+    {
+      "from": "L3_590",
+      "to": "L4_598"
+    },
+    {
+      "from": "L4_598",
+      "to": "L5_599"
+    },
+    {
+      "from": "L4_598",
+      "to": "L5_600"
+    },
+    {
+      "from": "L4_598",
+      "to": "L5_601"
+    },
+    {
+      "from": "L4_598",
+      "to": "L5_602"
+    },
+    {
+      "from": "L4_598",
+      "to": "L5_603"
+    },
+    {
+      "from": "L4_598",
+      "to": "L5_604"
+    },
+    {
+      "from": "L3_590",
+      "to": "L4_605"
+    },
+    {
+      "from": "L4_605",
+      "to": "L5_606"
+    },
+    {
+      "from": "L4_605",
+      "to": "L5_607"
+    },
+    {
+      "from": "L3_590",
+      "to": "L4_608"
+    },
+    {
+      "from": "L4_608",
+      "to": "L5_609"
+    },
+    {
+      "from": "L4_608",
+      "to": "L5_610"
+    },
+    {
+      "from": "L3_590",
+      "to": "L4_611"
+    },
+    {
+      "from": "L4_611",
+      "to": "L5_612"
+    },
+    {
+      "from": "L4_611",
+      "to": "L5_613"
+    },
+    {
+      "from": "L4_611",
+      "to": "L5_614"
+    },
+    {
+      "from": "L3_590",
+      "to": "L4_615"
+    },
+    {
+      "from": "L4_615",
+      "to": "L5_616"
+    },
+    {
+      "from": "L4_615",
+      "to": "L5_617"
+    },
+    {
+      "from": "L3_590",
+      "to": "L4_618"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_619"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_620"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_621"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_622"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_623"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_624"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_625"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_626"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_627"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_628"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_629"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_630"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_631"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_632"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_633"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_634"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_635"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_636"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_637"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_638"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_639"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_640"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_641"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_642"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_643"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_644"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_645"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_646"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_647"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_648"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_649"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_650"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_651"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_652"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_653"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_654"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_655"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_656"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_657"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_658"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_659"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_660"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_661"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_662"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_663"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_664"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_665"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_666"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_667"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_668"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_669"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_670"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_671"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_672"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_673"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_674"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_675"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_676"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_677"
+    },
+    {
+      "from": "L4_618",
+      "to": "L5_678"
+    },
+    {
+      "from": "L2_504",
+      "to": "L3_679"
+    },
+    {
+      "from": "L3_679",
+      "to": "L4_680"
+    },
+    {
+      "from": "L4_680",
+      "to": "L5_681"
+    },
+    {
+      "from": "L3_679",
+      "to": "L4_682"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_683"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_684"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_685"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_686"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_687"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_688"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_689"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_690"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_691"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_692"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_693"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_694"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_695"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_696"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_697"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_698"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_699"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_700"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_701"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_702"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_703"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_704"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_705"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_706"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_707"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_708"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_709"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_710"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_711"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_712"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_713"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_714"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_715"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_716"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_717"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_718"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_719"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_720"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_721"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_722"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_723"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_724"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_725"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_726"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_727"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_728"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_729"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_730"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_731"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_732"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_733"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_734"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_735"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_736"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_737"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_738"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_739"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_740"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_741"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_742"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_743"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_744"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_745"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_746"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_747"
+    },
+    {
+      "from": "L4_682",
+      "to": "L5_748"
+    },
+    {
+      "from": "L3_679",
+      "to": "L4_749"
+    },
+    {
+      "from": "L4_749",
+      "to": "L5_750"
+    },
+    {
+      "from": "L3_679",
+      "to": "L4_751"
+    },
+    {
+      "from": "L4_751",
+      "to": "L5_752"
+    },
+    {
+      "from": "L4_751",
+      "to": "L5_753"
+    },
+    {
+      "from": "L4_751",
+      "to": "L5_754"
+    },
+    {
+      "from": "L4_751",
+      "to": "L5_755"
+    },
+    {
+      "from": "L4_751",
+      "to": "L5_756"
+    },
+    {
+      "from": "L4_751",
+      "to": "L5_757"
+    },
+    {
+      "from": "L4_751",
+      "to": "L5_758"
+    },
+    {
+      "from": "L4_751",
+      "to": "L5_759"
+    },
+    {
+      "from": "L4_751",
+      "to": "L5_760"
+    },
+    {
+      "from": "L4_751",
+      "to": "L5_761"
+    },
+    {
+      "from": "L4_751",
+      "to": "L5_762"
+    },
+    {
+      "from": "L4_751",
+      "to": "L5_763"
+    },
+    {
+      "from": "L4_751",
+      "to": "L5_764"
+    },
+    {
+      "from": "L4_751",
+      "to": "L5_765"
+    },
+    {
+      "from": "L4_751",
+      "to": "L5_766"
+    },
+    {
+      "from": "L2_504",
+      "to": "L3_767"
+    },
+    {
+      "from": "L3_767",
+      "to": "L4_768"
+    },
+    {
+      "from": "L4_768",
+      "to": "L5_769"
+    },
+    {
+      "from": "L4_768",
+      "to": "L5_770"
+    },
+    {
+      "from": "L4_768",
+      "to": "L5_771"
+    },
+    {
+      "from": "L4_768",
+      "to": "L5_772"
+    },
+    {
+      "from": "L4_768",
+      "to": "L5_773"
+    },
+    {
+      "from": "L4_768",
+      "to": "L5_774"
+    },
+    {
+      "from": "L3_767",
+      "to": "L4_775"
+    },
+    {
+      "from": "L4_775",
+      "to": "L5_776"
+    },
+    {
+      "from": "L4_775",
+      "to": "L5_777"
+    },
+    {
+      "from": "L4_775",
+      "to": "L5_778"
+    },
+    {
+      "from": "L3_767",
+      "to": "L4_779"
+    },
+    {
+      "from": "L4_779",
+      "to": "L5_780"
+    },
+    {
+      "from": "L4_779",
+      "to": "L5_781"
+    },
+    {
+      "from": "L3_767",
+      "to": "L4_782"
+    },
+    {
+      "from": "L4_782",
+      "to": "L5_783"
+    },
+    {
+      "from": "L4_782",
+      "to": "L5_784"
+    },
+    {
+      "from": "L4_782",
+      "to": "L5_785"
+    },
+    {
+      "from": "L4_782",
+      "to": "L5_786"
+    },
+    {
+      "from": "L4_782",
+      "to": "L5_787"
+    },
+    {
+      "from": "L4_782",
+      "to": "L5_788"
+    },
+    {
+      "from": "L0_0",
+      "to": "L1_789"
+    },
+    {
+      "from": "L1_789",
+      "to": "L2_790"
+    },
+    {
+      "from": "L2_790",
+      "to": "L3_791"
+    },
+    {
+      "from": "L3_791",
+      "to": "L4_792"
+    },
+    {
+      "from": "L4_792",
+      "to": "L5_793"
+    },
+    {
+      "from": "L4_792",
+      "to": "L5_794"
+    },
+    {
+      "from": "L4_792",
+      "to": "L5_795"
+    },
+    {
+      "from": "L4_792",
+      "to": "L5_796"
+    },
+    {
+      "from": "L4_792",
+      "to": "L5_797"
+    },
+    {
+      "from": "L4_792",
+      "to": "L5_798"
+    },
+    {
+      "from": "L4_792",
+      "to": "L5_799"
+    },
+    {
+      "from": "L4_792",
+      "to": "L5_800"
+    },
+    {
+      "from": "L4_792",
+      "to": "L5_801"
+    },
+    {
+      "from": "L4_792",
+      "to": "L5_802"
+    },
+    {
+      "from": "L4_792",
+      "to": "L5_803"
+    },
+    {
+      "from": "L4_792",
+      "to": "L5_804"
+    },
+    {
+      "from": "L4_792",
+      "to": "L5_805"
+    },
+    {
+      "from": "L4_792",
+      "to": "L5_806"
+    },
+    {
+      "from": "L4_792",
+      "to": "L5_807"
+    },
+    {
+      "from": "L3_791",
+      "to": "L4_808"
+    },
+    {
+      "from": "L4_808",
+      "to": "L5_809"
+    },
+    {
+      "from": "L4_808",
+      "to": "L5_810"
+    },
+    {
+      "from": "L4_808",
+      "to": "L5_811"
+    },
+    {
+      "from": "L4_808",
+      "to": "L5_812"
+    },
+    {
+      "from": "L4_808",
+      "to": "L5_813"
+    },
+    {
+      "from": "L2_790",
+      "to": "L3_814"
+    },
+    {
+      "from": "L3_814",
+      "to": "L4_815"
+    },
+    {
+      "from": "L4_815",
+      "to": "L5_816"
+    },
+    {
+      "from": "L4_815",
+      "to": "L5_817"
+    },
+    {
+      "from": "L3_814",
+      "to": "L4_818"
+    },
+    {
+      "from": "L4_818",
+      "to": "L5_819"
+    },
+    {
+      "from": "L2_790",
+      "to": "L3_820"
+    },
+    {
+      "from": "L3_820",
+      "to": "L4_821"
+    },
+    {
+      "from": "L4_821",
+      "to": "L5_822"
+    },
+    {
+      "from": "L4_821",
+      "to": "L5_823"
+    },
+    {
+      "from": "L2_790",
+      "to": "L3_824"
+    },
+    {
+      "from": "L3_824",
+      "to": "L4_825"
+    },
+    {
+      "from": "L4_825",
+      "to": "L5_826"
+    },
+    {
+      "from": "L2_790",
+      "to": "L3_827"
+    },
+    {
+      "from": "L3_827",
+      "to": "L4_828"
+    },
+    {
+      "from": "L4_828",
+      "to": "L5_829"
+    },
+    {
+      "from": "L3_827",
+      "to": "L4_830"
+    },
+    {
+      "from": "L4_830",
+      "to": "L5_831"
+    },
+    {
+      "from": "L4_830",
+      "to": "L5_832"
+    },
+    {
+      "from": "L2_790",
+      "to": "L3_833"
+    },
+    {
+      "from": "L3_833",
+      "to": "L4_834"
+    },
+    {
+      "from": "L4_834",
+      "to": "L5_835"
+    },
+    {
+      "from": "L4_834",
+      "to": "L5_836"
+    },
+    {
+      "from": "L4_834",
+      "to": "L5_837"
+    },
+    {
+      "from": "L4_834",
+      "to": "L5_838"
+    },
+    {
+      "from": "L3_833",
+      "to": "L4_839"
+    },
+    {
+      "from": "L4_839",
+      "to": "L5_840"
+    },
+    {
+      "from": "L4_839",
+      "to": "L5_841"
+    },
+    {
+      "from": "L4_839",
+      "to": "L5_842"
+    },
+    {
+      "from": "L4_839",
+      "to": "L5_843"
+    },
+    {
+      "from": "L2_790",
+      "to": "L3_844"
+    },
+    {
+      "from": "L3_844",
+      "to": "L4_845"
+    },
+    {
+      "from": "L4_845",
+      "to": "L5_846"
+    },
+    {
+      "from": "L2_790",
+      "to": "L3_847"
+    },
+    {
+      "from": "L3_847",
+      "to": "L4_848"
+    },
+    {
+      "from": "L4_848",
+      "to": "L5_849"
+    },
+    {
+      "from": "L3_847",
+      "to": "L4_850"
+    },
+    {
+      "from": "L4_850",
+      "to": "L5_851"
+    },
+    {
+      "from": "L1_789",
+      "to": "L2_852"
+    },
+    {
+      "from": "L2_852",
+      "to": "L3_853"
+    },
+    {
+      "from": "L3_853",
+      "to": "L4_854"
+    },
+    {
+      "from": "L4_854",
+      "to": "L5_855"
+    },
+    {
+      "from": "L4_854",
+      "to": "L5_856"
+    },
+    {
+      "from": "L4_854",
+      "to": "L5_857"
+    },
+    {
+      "from": "L4_854",
+      "to": "L5_858"
+    },
+    {
+      "from": "L4_854",
+      "to": "L5_859"
+    },
+    {
+      "from": "L4_854",
+      "to": "L5_860"
+    },
+    {
+      "from": "L4_854",
+      "to": "L5_861"
+    },
+    {
+      "from": "L4_854",
+      "to": "L5_862"
+    },
+    {
+      "from": "L4_854",
+      "to": "L5_863"
+    },
+    {
+      "from": "L4_854",
+      "to": "L5_864"
+    },
+    {
+      "from": "L4_854",
+      "to": "L5_865"
+    },
+    {
+      "from": "L4_854",
+      "to": "L5_866"
+    },
+    {
+      "from": "L1_789",
+      "to": "L2_867"
+    },
+    {
+      "from": "L2_867",
+      "to": "L3_868"
+    },
+    {
+      "from": "L3_868",
+      "to": "L4_869"
+    },
+    {
+      "from": "L4_869",
+      "to": "L5_870"
+    },
+    {
+      "from": "L4_869",
+      "to": "L5_871"
+    },
+    {
+      "from": "L4_869",
+      "to": "L5_872"
+    },
+    {
+      "from": "L4_869",
+      "to": "L5_873"
+    },
+    {
+      "from": "L4_869",
+      "to": "L5_874"
+    },
+    {
+      "from": "L3_868",
+      "to": "L4_875"
+    },
+    {
+      "from": "L4_875",
+      "to": "L5_876"
+    },
+    {
+      "from": "L4_875",
+      "to": "L5_877"
+    },
+    {
+      "from": "L4_875",
+      "to": "L5_878"
+    },
+    {
+      "from": "L4_875",
+      "to": "L5_879"
+    },
+    {
+      "from": "L4_875",
+      "to": "L5_880"
+    },
+    {
+      "from": "L0_0",
+      "to": "L1_881"
+    },
+    {
+      "from": "L1_881",
+      "to": "L2_882"
+    },
+    {
+      "from": "L2_882",
+      "to": "L3_883"
+    },
+    {
+      "from": "L3_883",
+      "to": "L4_884"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_885"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_886"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_887"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_888"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_889"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_890"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_891"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_892"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_893"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_894"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_895"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_896"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_897"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_898"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_899"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_900"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_901"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_902"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_903"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_904"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_905"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_906"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_907"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_908"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_909"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_910"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_911"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_912"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_913"
+    },
+    {
+      "from": "L4_884",
+      "to": "L5_914"
+    }
+  ]
+}
